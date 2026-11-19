@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.166",
-    "versionCode": 403166,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.166/GODENTO-2.3.166.apk",
-    "sha256": "352ec5880cba0baa19092e9ce4d56fa8fe594cbf90748a67aa45a9d989797552",
-    "notes": "Запазена парола, авто-вход, по-бързо отваряне на пациент, въпрос за източника, поправки по анкетата"
+        "versionName": "2.3.168",
+        "versionCode": 403168,
+        "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.168/GODENTO-2.3.168.apk",
+        "sha256": "4c8d5a33455977e0856b470a98bf1a4924e5162a77d9e32abf10d317fd5fff75",
+        "notes": "Обновяване от GitHub: проверка при влизане, лента на екрана Бази, сваляне и инсталиране"
 }
