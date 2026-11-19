@@ -1,7 +1,7 @@
 {
-        "versionName": "2.3.168",
-        "versionCode": 403168,
-        "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.168/GODENTO-2.3.168.apk",
-        "sha256": "4c8d5a33455977e0856b470a98bf1a4924e5162a77d9e32abf10d317fd5fff75",
-        "notes": "Обновяване от GitHub: проверка при влизане, лента на екрана Бази, сваляне и инсталиране"
+    "versionName": "2.3.188",
+    "versionCode": 403188,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.188/GODENTO-2.3.188.apk",
+    "sha256": "91d0d16ab6b7917de52122cd99395b394e4dcb6ef94852dec3374c72e6f38f02",
+    "notes": "2.3.188 — съгласие в същия АЛ, избор на зъб, учтива форма"
 }
