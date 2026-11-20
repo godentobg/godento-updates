@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.188",
-    "versionCode": 403188,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.188/GODENTO-2.3.188.apk",
-    "sha256": "91d0d16ab6b7917de52122cd99395b394e4dcb6ef94852dec3374c72e6f38f02",
-    "notes": "2.3.188 — съгласие в същия АЛ, избор на зъб, учтива форма"
+    "versionName": "2.3.189",
+    "versionCode": 403189,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.189/GODENTO-2.3.189.apk",
+    "sha256": "bb40c3a0c551ecdd289633e5ac6c8c87c6255b846330022af85890faeeb10670",
+    "notes": "2.3.189 — манипулации с изпълнител/зъб/забележка, без кеш, „стъпка назад“ в Съгласия, български дати"
 }
