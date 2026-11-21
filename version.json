@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.192",
-    "versionCode": 403192,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.192/GODENTO-2.3.192.apk",
-    "sha256": "699f55076120b6588b8d32a4317b6de54f81f52e2cf5908199dbfc43ed3a8692",
-    "notes": "2.3.192 — Амб: дата и час на манипулациите в АЛ, „← Назад“ при избор на съгласие, съгласие от Амб остава в същия АЛ, без 8 сек. чакане при зъб"
+    "versionName": "2.3.193",
+    "versionCode": 403193,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.193/GODENTO-2.3.193.apk",
+    "sha256": "518925c2ee7d744a1fa479119243a6e6c6fe3d95fb200d04072f7e2ac9d946f1",
+    "notes": "2.3.193 — Съг.: проверка на анкетата по Inf_000, „Нов АЛ“ остава в Съг., почистен код, версия в лога; махнати 7-те докосвания (остава менюто с 3)"
 }
