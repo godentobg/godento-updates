@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.194",
-    "versionCode": 403194,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.194/GODENTO-2.3.194.apk",
-    "sha256": "4d6e37d8db372de0b5f3589d11a0aa0ff5a35f38c81048158d3f850ccee03b28",
-    "notes": "2.3.194 — частите са с нови имена (registracia, saglasia, ambulatoria); всичко от 2.3.193"
+    "versionName": "2.3.195",
+    "versionCode": 403195,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.195/GODENTO-2.3.195.apk",
+    "sha256": "e6c1acc203d73de1fc9c254339c822e5b66f7dd287dcf142a168e0a00a08c2ff",
+    "notes": "2.3.195 — Амб: зъбният статус работи с новото ГОДЕНТО 2.16.16.53 (отваряне на редактора, млечни зъби); вярно четене на статуса (без скритото меню с кодове)"
 }
