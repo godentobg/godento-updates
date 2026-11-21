@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.193",
-    "versionCode": 403193,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.193/GODENTO-2.3.193.apk",
-    "sha256": "518925c2ee7d744a1fa479119243a6e6c6fe3d95fb200d04072f7e2ac9d946f1",
-    "notes": "2.3.193 — Съг.: проверка на анкетата по Inf_000, „Нов АЛ“ остава в Съг., почистен код, версия в лога; махнати 7-те докосвания (остава менюто с 3)"
+    "versionName": "2.3.194",
+    "versionCode": 403194,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.194/GODENTO-2.3.194.apk",
+    "sha256": "4d6e37d8db372de0b5f3589d11a0aa0ff5a35f38c81048158d3f850ccee03b28",
+    "notes": "2.3.194 — частите са с нови имена (registracia, saglasia, ambulatoria); всичко от 2.3.193"
 }
