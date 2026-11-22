@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.195",
-    "versionCode": 403195,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.195/GODENTO-2.3.195.apk",
-    "sha256": "e6c1acc203d73de1fc9c254339c822e5b66f7dd287dcf142a168e0a00a08c2ff",
-    "notes": "2.3.195 — Амб: зъбният статус работи с новото ГОДЕНТО 2.16.16.53 (отваряне на редактора, млечни зъби); вярно четене на статуса (без скритото меню с кодове)"
+    "versionName": "2.3.196",
+    "versionCode": 403196,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.196/GODENTO-2.3.196.apk",
+    "sha256": "e535635320d8bfb81e21c158a0d7e9938153a01a310674c25a78dafde1de7efb",
+    "notes": "2.3.196 — Съг.: анкетата винаги най-отгоре и винаги нова, „последно на <дата>“; лекарят за нов АЛ — от последния АЛ, иначе от графика"
 }
