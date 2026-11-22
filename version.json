@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.196",
-    "versionCode": 403196,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.196/GODENTO-2.3.196.apk",
-    "sha256": "e535635320d8bfb81e21c158a0d7e9938153a01a310674c25a78dafde1de7efb",
-    "notes": "2.3.196 — Съг.: анкетата винаги най-отгоре и винаги нова, „последно на <дата>“; лекарят за нов АЛ — от последния АЛ, иначе от графика"
+    "versionName": "2.3.197",
+    "versionCode": 403197,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.197/GODENTO-2.3.197.apk",
+    "sha256": "1e90d6b44539f8131c060ee11c3d0d9b07fae1c96802bb8312268eb6181e4b0d",
+    "notes": "2.3.197 — „Моля, изчакайте…“ (нов вид) и завеса над ГОДЕНТО; Амб: съгласията в отворения АЛ са бутони; Съг: зъб, АЛ №, доктор и поделение на реда"
 }
