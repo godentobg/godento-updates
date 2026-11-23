@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.201",
-    "versionCode": 403201,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.201/GODENTO-2.3.201.apk",
-    "sha256": "ddc43bacfaeeedf5bfc73099bd3143c933c4d091ea5d25f9676ec9ed14b45f42",
-    "notes": "2.3.201 — след затваряне на документ „Моля, изчакайте…“ остава, докато частта покаже екрана си (и при затваряне през ГОДЕНТО); Амб.: редакторът на зъбите се затваря веднъж преди документ/съгласие"
+    "versionName": "2.3.202",
+    "versionCode": 403202,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.202/GODENTO-2.3.202.apk",
+    "sha256": "5cf3502d1ee8d95bc6f58edb4cc6f62463cace00f8553919a960ff3c995f1af9",
+    "notes": "2.3.202 — Амб.: докосване на картата горе в отворения лист → целият лист за преглед („Печат“ в ГОДЕНТО) → „Затворете“ → обратно в същия лист"
 }
