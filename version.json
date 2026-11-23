@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.198",
-    "versionCode": 403198,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.198/GODENTO-2.3.198.apk",
-    "sha256": "8d1a4fe638556d1182bb61619ce6b55f838d60d7d50b48d5ba2581e0daba1baf",
-    "notes": "2.3.198 — всяка част работи сама: Амб. отваря документите и новото съгласие в Амб.; анкетата в Рег. — в Рег. (без превключване на Съг.)"
+    "versionName": "2.3.199",
+    "versionCode": 403199,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.199/GODENTO-2.3.199.apk",
+    "sha256": "be541d125ba7ddce50759462544db9ee09b93c4e9935e97a4ce0f6e005fd1095",
+    "notes": "2.3.199 — без кеш (всичко се чете наново от ГОДЕНТО); Рег.: ЛНЧ/невалидно ЕГН първо се проверява в ГОДЕНТО; смяна на поделението от картона в Амб. и Съг.; пациент след 63-ия ред в дневния списък се отваря"
 }
