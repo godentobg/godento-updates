@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.197",
-    "versionCode": 403197,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.197/GODENTO-2.3.197.apk",
-    "sha256": "1e90d6b44539f8131c060ee11c3d0d9b07fae1c96802bb8312268eb6181e4b0d",
-    "notes": "2.3.197 — „Моля, изчакайте…“ (нов вид) и завеса над ГОДЕНТО; Амб: съгласията в отворения АЛ са бутони; Съг: зъб, АЛ №, доктор и поделение на реда"
+    "versionName": "2.3.198",
+    "versionCode": 403198,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.198/GODENTO-2.3.198.apk",
+    "sha256": "8d1a4fe638556d1182bb61619ce6b55f838d60d7d50b48d5ba2581e0daba1baf",
+    "notes": "2.3.198 — всяка част работи сама: Амб. отваря документите и новото съгласие в Амб.; анкетата в Рег. — в Рег. (без превключване на Съг.)"
 }
