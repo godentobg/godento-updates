@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.206",
-    "versionCode": 403206,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.206/GODENTO-2.3.206.apk",
-    "sha256": "0f594e0d7612998c7ee27c986a53a4eb5f6eaa3a94259276916b1349fabf5aef",
-    "notes": "2.3.206 — Амб. зъбен статус: 4 начина (Веднага · Бързо · От зъб · От диагноза); при бързото кодовете само се добавят; много по-бърз запис в ГОДЕНТО (и при „Веднага“)"
+    "versionName": "2.3.207",
+    "versionCode": 403207,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.207/GODENTO-2.3.207.apk",
+    "sha256": "4e06f6c902a0e41d080bf4d5d05f06255d770c7dcd6c221064006656c29220e7",
+    "notes": "2.3.207 — Амб.: зъбен статус до 8× по-бърз запис (~120 ms на зъб); «Запишете в ГОДЕНТО» по бързия път; таван на изчакването 5 s"
 }
