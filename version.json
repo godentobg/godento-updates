@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.208",
-    "versionCode": 403208,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.208/GODENTO-2.3.208.apk",
-    "sha256": "1fa38f51790d9cb6c20ea800bad93d6c6cf8dda029bf0e02b2dfb20c3b97bdd2",
-    "notes": "2.3.208 — Рег.: търсенето остава в Регистратура (без Амбулатория), „Към Регистратура“ връща в началото, без грешка при затворено търсене; по-бързи изчаквания; логът е изключен по подразбиране"
+    "versionName": "2.3.209",
+    "versionCode": 403209,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.209/GODENTO-2.3.209.apk",
+    "sha256": "d01cdc4737dfc4436d97de96a89665aa12efce51f808a127b40b255026f306cb",
+    "notes": "2.3.209 — Амб. → АЛ → Веднага: само нанася статуса (ГОДЕНТО решава, без изтриване на стария); UI: aria-label, видим фокус, alt на снимките"
 }
