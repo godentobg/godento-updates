@@ -1,7 +1,7 @@
 {
-    "versionName":  "2.3.210",
-    "versionCode":  403210,
-    "url":  "https://github.com/godentobg/godento-updates/releases/download/v2.3.210/GODENTO-2.3.210.apk",
-    "sha256":  "e961c48d3e81170fb2b4be58747a9c62dc1cb540a0a345bab91e8f464d7facbe",
-    "notes":  "2.3.210 — Амб.: Маркери (Добави/Махни), Бързо заменя кода и пази Pa+подвижност, Веднага чисти с Z, От зъб/От диагноза без триене; редакторът стои 1 мин"
+    "versionName": "2.3.211",
+    "versionCode": 403211,
+    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.211/GODENTO-2.3.211.apk",
+    "sha256": "b350353483722f02c1b43e60234474cb0d6c3ce59f9147af58e6046ed5481ae2",
+    "notes": "2.3.211 — Телефон: приема български (вкл. 098/099, стационарни) и чужди номера, хваща грешки при писане; Амб.: Бързо пази Pa, подвижност и Ds; Рег.: поправено търсене; предупрежденията на ГОДЕНТО вече не се броят за грешки на разширението"
 }
