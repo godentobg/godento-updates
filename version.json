@@ -1,7 +1,7 @@
 {
-    "versionName": "2.3.211",
-    "versionCode": 403211,
-    "url": "https://github.com/godentobg/godento-updates/releases/download/v2.3.211/GODENTO-2.3.211.apk",
-    "sha256": "b350353483722f02c1b43e60234474cb0d6c3ce59f9147af58e6046ed5481ae2",
-    "notes": "2.3.211 — Телефон: приема български (вкл. 098/099, стационарни) и чужди номера, хваща грешки при писане; Амб.: Бързо пази Pa, подвижност и Ds; Рег.: поправено търсене; предупрежденията на ГОДЕНТО вече не се броят за грешки на разширението"
+    "versionName":  "2.3.212",
+    "versionCode":  403212,
+    "url":  "https://github.com/godentobg/godento-updates/releases/download/v2.3.212/GODENTO-2.3.212.apk",
+    "sha256":  "391bf5e6179bc91b148a882e3317c4dd14723b28910bc4cf6d6d2c56956e241c",
+    "notes":  "2.3.212 — UI/достъпност: aria-label на полетата за търсене и телефон, aria-live за грешките, prefers-reduced-motion за спинърите, touch-action: manipulation (без 300 ms закъснение при докосване), размери на иконите НЗОК/подпис; началният екран в APK-то с шрифт Manrope и видим фокус"
 }
