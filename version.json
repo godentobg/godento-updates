@@ -1,7 +1,7 @@
 {
-    "versionName":  "2.3.212",
-    "versionCode":  403212,
-    "url":  "https://github.com/godentobg/godento-updates/releases/download/v2.3.212/GODENTO-2.3.212.apk",
-    "sha256":  "391bf5e6179bc91b148a882e3317c4dd14723b28910bc4cf6d6d2c56956e241c",
-    "notes":  "2.3.212 — UI/достъпност: aria-label на полетата за търсене и телефон, aria-live за грешките, prefers-reduced-motion за спинърите, touch-action: manipulation (без 300 ms закъснение при докосване), размери на иконите НЗОК/подпис; началният екран в APK-то с шрифт Manrope и видим фокус"
+    "versionName":  "2.3.213",
+    "versionCode":  403213,
+    "url":  "https://github.com/godentobg/godento-updates/releases/download/v2.3.213/GODENTO-2.3.213.apk",
+    "sha256":  "bef5ce6440f888fd323e59a65e4c19a43fc90a1c457ae57e3f9cefda84e18614",
+    "notes":  "2.3.213 — Лог: при нова инсталация „📋 Лог“ вече пише вярно „изключен“; при изключен лог се пазят само грешките ([GDE-ERR], до 50 реда) — при проблем има следа, без логът да расте"
 }
